@@ -2,4 +2,4 @@
 
 nama: nama project[link github] 
 
-1.
+1. Nawfal Althaf Budiman : Notes App[https://github.com/Althaf-Budiman/NotesAppLaravel]
