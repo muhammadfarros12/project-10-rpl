@@ -2,4 +2,6 @@
 
 nama: nama project[link github] 
 
-1. project-laravel-maul(belom ada nama) [https://github.com/maulzzzaqi/project-laravel-maul]
+1. Nawfal Althaf Budiman : Notes App[https://github.com/Althaf-Budiman/NotesAppLaravel]
+2. project-laravel-maul(belom ada nama) [https://github.com/maulzzzaqi/project-laravel-maul]  
+ 
