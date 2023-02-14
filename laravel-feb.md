@@ -8,3 +8,4 @@
 6. Ahmad Fathir : [Management Tahfidz](https://github.com/Zzfathir/management-tahfidz)
 7. Akmal Pratama: [TurnBackCrime Panel](https://github.com/malpraku/turnbackcrime)  (basically task management, cuma di reskin/mod doang i dont know sya cuma ngikutin prinsip amati-tiru-modifikasi)
 8. Muhammad Fathir : [list book library](https://github.com/mfathirr/library-app)
+9. Thoriq Ramadhan : [Libary Management](https://github.com/thoriqramadhan/LibaryManagement)
