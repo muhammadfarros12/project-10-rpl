@@ -7,5 +7,6 @@
 5. Fadhil Zaki : [data perpus](https://github.com/zfadhil/data-perpus)
 6. Ahmad Fathir : [Management Tahfidz](https://github.com/Zzfathir/management-tahfidz)
 7. Akmal Pratama: [TurnBackCrime Panel](https://github.com/malpraku/LaravelProject)  
-8. Muhammad Fathir : [list book library](https://github.com/mfathirr/library-app)
-9. Farrel Ahmad Ghazali : [data buku perpus](https://github.com/farrelahmad/book)
+8. Muhammad Fathir : [list book library](https://github.com/mfathirr/library-app)  
+9. Thoriq Ramadhan : [Libary Management](https://github.com/thoriqramadhan/LibaryManagement)
+10. Farrel Ahmad Ghazali : [data buku perpus](https://github.com/farrelahmad/book)  
