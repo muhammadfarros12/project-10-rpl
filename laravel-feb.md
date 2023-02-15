@@ -11,3 +11,4 @@
 9. Thoriq Ramadhan : [Libary Management](https://github.com/thoriqramadhan/LibaryManagement)
 10. Farrel Ahmad Ghazali : [data buku perpus](https://github.com/farrelahmad/book)  
 11. Rakha Sapta Fabian : [Verification Application](https://github.com/rakhasf/verifikation-app)
+12. M. Maaz : [Basic](https://github.com/maazshakeel/basic-laravel-project)
