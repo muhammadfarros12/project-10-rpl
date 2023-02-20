@@ -13,3 +13,4 @@
 11. Rakha Sapta Fabian : [Verification Application](https://github.com/rakhasf/hope)
 12. Muhammad Zaidan Firrizq : [List Data Mahasiswa](https://github.com/Firrizq/laravel-project)
 13. M. Maaz : [Students Data](https://github.com/maazshakeel/students_data)  
+14. Akmal Faiq : [Pet Adoption Web](https://github.com/akmalranyan/laravel-Project)
