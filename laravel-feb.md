@@ -12,4 +12,4 @@
 10. Farrel Ahmad Ghazali : [data buku perpus](https://github.com/farrelahmad/book)  
 11. Rakha Sapta Fabian : [Verification Application](https://github.com/rakhasf/hope)
 12. Muhammad Zaidan Firrizq : [List Data Mahasiswa](https://github.com/Firrizq/laravel-project)
-13. M. Maaz : [Basic](https://github.com/maazshakeel/basic-laravel-project)  
+13. M. Maaz : [Students Data](https://github.com/maazshakeel/students_data)  
