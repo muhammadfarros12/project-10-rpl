@@ -52,5 +52,4 @@ Exception Handling
 Anonymous Function  
 Variadic Function  
 Magic Method  
-Final Class  
-& Final Method  
+Final Class & Final Method  
