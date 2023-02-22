@@ -1,4 +1,4 @@
-## Project Writing Articles
+## **Project Writing Articles**
 ### Indonesian
 1. Untuk pembuatannya silahkan untuk buat file .md (markdown) berdasarkan nama masing - masing
 contoh **muhammad farroos.md**  
@@ -21,3 +21,36 @@ contoh **muhammad farroos.md**
 
 ![hasil akhir](../images/readme.png)
 *hasil akhir*
+
+## **All of article title** 
+Konsep OOP  
+Visibilitas  
+Konsep Statis  
+Konstanta  
+Keyword $this & self  
+Return Value  
+Constructor  
+Destructor  
+
+Pilar OOP  
+Encapsulation  
+Abstraction  
+Inheritance  
+Polymophism  
+
+Override & Overload  
+Abstract Class & Abstract Method  
+Interface  
+Method Chaining  
+Namespace & use  
+Parameter Casting  
+Return Type Declaration  
+Recursive Function  
+Late Static Binding  
+trait  
+Exception Handling  
+Anonymous Function  
+Variadic Function  
+Magic Method  
+Final Class  
+& Final Method  
