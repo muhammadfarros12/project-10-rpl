@@ -14,3 +14,6 @@ contoh **muhammad farroos.md**
 * `**[title of your article/article theme](link for your article)** - the date the article was created.`  
 * example
 * **[if Else](https://github.com/)** - Tuesday, 22/02/2023 
+
+**image**  
+[](../images/file.png)  
