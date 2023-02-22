@@ -16,4 +16,8 @@ contoh **muhammad farroos.md**
 * **[if Else](https://github.com/)** - Tuesday, 22/02/2023 
 
 **image**  
-[testing](../images/file.png)  
+![file .md](../images/file.png)  
+*menambahkan file .md* 
+
+![hasil akhir](../images/readme.png)
+*hasil akhir*
