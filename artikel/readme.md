@@ -24,32 +24,32 @@ contoh **muhammad farroos.md**
 
 ## **All of article title** 
 Konsep OOP  
-Visibilitas  
-Konsep Statis  
-Konstanta  
-Keyword $this & self  
-Return Value  
-Constructor  
-Destructor  
+1. Visibilitas  
+2. Konsep Statis  
+3. Konstanta  
+4. Keyword $this & self  
+5. Return Value  
+6. Constructor  
+7. Destructor  
 
-Pilar OOP  
-Encapsulation  
-Abstraction  
-Inheritance  
-Polymophism  
+8. Pilar OOP  
+9. Encapsulation  
+10. Abstraction  
+22. Inheritance  
+12. Polymophism  
 
-Override & Overload  
-Abstract Class & Abstract Method  
-Interface  
-Method Chaining  
-Namespace & use  
-Parameter Casting  
-Return Type Declaration  
-Recursive Function  
-Late Static Binding  
-trait  
-Exception Handling  
-Anonymous Function  
-Variadic Function  
-Magic Method  
-Final Class & Final Method  
+13. Override & Overload  
+14. Abstract Class & Abstract Method  
+15. Interface  
+16. Method Chaining  
+17. Namespace & use  
+18. Parameter Casting  
+19. Return Type Declaration  
+20. Recursive Function  
+21. Late Static Binding  
+22. trait  
+23. Exception Handling  
+24. Anonymous Function  
+25. Variadic Function  
+26. Magic Method  
+27. Final Class & Final Method  
