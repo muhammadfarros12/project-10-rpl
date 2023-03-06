@@ -9,3 +9,6 @@
 **[Return Value](https://medium.com/@fihryalfaqiy/return-value-548b936b5b97)** - Jumat, 24/03/2023  
 **[Constructor](https://medium.com/@fihryalfaqiy/constructor-64e56aa2b6f8)** - Jumat, 24/03/2023  
 **[Destructor](https://medium.com/@fihryalfaqiy/destructor-f2bb46f7711)** - Jumat, 24/03/2023  
+**[Pilar OOP]([(https://medium.com/@fihryalfaqiy/pilar-oop-encapsulation-e769cfd1411f))** - Jumat, 24/03/2023  
+**[Encapsulation]([https://medium.com/@fihryalfaqiy/pilar-oop-encapsulation-e769cfd1411f))** - Jumat, 24/03/2023  
+**[Abstraction]([https://medium.com/@fihryalfaqiy/pilar-oop-abstraction-3f22f0ebc52f))** - Jumat, 24/03/2023  
