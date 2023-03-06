@@ -6,4 +6,5 @@
 **[Konstanta](https://medium.com/@ahmadfathir0830/constant-d0bf83c111a0) - Rabu, 1/2/2023**  
 **[Keyword $this & self](https://medium.com/@ahmadfathir0830/keyword-this-and-self-f8b85a533594) - Kamis, 23/2/2023**  
 **[Return value](https://medium.com/@ahmadfathir0830/return-value-897cceb8b7da) - Kamis, 23/2/2023**  
+**[Constructor](https://medium.com/@ahmadfathir0830/constructor-5f4cd971fcb4) - Kamis, 23/2/2023**  
 
