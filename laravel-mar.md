@@ -2,3 +2,7 @@
 
 1. Nama : [nama project](link project)  
 nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi  
+
+1.Thoriq Ramadhan : [student-user](https://github.com/thoriqramadhan/student-user)  
+
+
