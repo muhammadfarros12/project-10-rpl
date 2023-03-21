@@ -16,3 +16,4 @@
 14. Akmal Faiq : [Pet Adoption Web](https://github.com/akmalranyan/laravel-Project)
 15. Zirjy Zakwan Fayyadhiya : (Pengabsenan) (https://github.com/Zirjy/TrueProject)
 16. Abdurrazaq : [List Library](https://github.com/ojaq/crud-laravel)
+17. Damarazka : [Data Mahasiswa](https://github.com/Damarazka/project-first)
