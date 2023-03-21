@@ -2,3 +2,4 @@
 
 1. Nama : [nama project](link project)  
 nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi  
+Ahmad Fathir : [LetsPost](https://github.com/Zzfathir/lets-post)  
