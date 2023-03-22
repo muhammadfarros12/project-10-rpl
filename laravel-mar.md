@@ -18,4 +18,4 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 13. Abdurrazaq [Reddit??](https://github.com/ojaq/redditojaq)  
 14. Farrel Ahamd Ghazali [Belom ada nama project](https://github.com/farrelahmad/apiproject)      
 15. Rakha S. Fabian : [GLOBAL OPERATIONS HUB](https://github.com/rakhasf/API-New)  
-16. Akmal Pratama [Phishing API](https://github.com/malpraku/PhishingAPI)
+16. Akmal Pratama : [Phishing API](https://github.com/malpraku/PhishingAPI2)
