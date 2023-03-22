@@ -14,4 +14,7 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 9. Nawfal Althaf Budiman [resep-makanan](https://github.com/Althaf-Budiman/api-resep-makanan)  
 10. Ahmad Fathir : [MyLib](https://github.com/Zzfathir/mylib)  
 11. Fihryal faqiy [Blog](https://github.com/fihryal/API--Project-Mar-.git)  
-12. Rakha S. Fabian : [GLOBAL OPERATIONS HUB](https://github.com/rakhasf/API-New)  
+12. Fadhil Zaki [Shares](https://github.com/zfadhil/api-blog)  
+13. Abdurrazaq [Reddit??](https://github.com/ojaq/redditojaq)  
+14. Farrel Ahamd Ghazali [Belom ada nama project](https://github.com/farrelahmad/apiproject)      
+15. Rakha S. Fabian : [GLOBAL OPERATIONS HUB](https://github.com/rakhasf/API-New)  
