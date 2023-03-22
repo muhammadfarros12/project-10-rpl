@@ -3,7 +3,7 @@
 Nama : [nama project](link project)  
 nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi  
 
-1. Thoriq Ramadhan : [student-user](https://github.com/thoriqramadhan/student-user)  
+1. Thoriq Ramadhan : [student-user](https://github.com/thoriqramadhan/StudentApi)  
 2. Damarazka A : [Skl-Api](https://github.com/Damarazka/skl-api)  
 3. Maulana Nur Fawwaz : [Book Review](https://github.com/Fawwaz129/Book_review)  
 4. Zaidan : [Nahtateem](https://github.com/firrizq/nahtateem-api)  
@@ -18,4 +18,4 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 13. Abdurrazaq [Reddit??](https://github.com/ojaq/redditojaq)  
 14. Farrel Ahamd Ghazali [Belom ada nama project](https://github.com/farrelahmad/apiproject)      
 15. Rakha S. Fabian : [GLOBAL OPERATIONS HUB](https://github.com/rakhasf/API-New)  
-16. Akmal Pratama : [Phishing API](https://github.com/malpraku/PhishingAPI2)
+16. Akmal Pratama [Phishing API](https://github.com/malpraku/PhishingAPI)
