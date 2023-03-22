@@ -13,3 +13,4 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 8. Muhammad Maaz : [Belum](https://github.com/maazshakeel/skl-2)  
 9. Nawfal Althaf Budiman [resep-makanan](https://github.com/Althaf-Budiman/api-resep-makanan)  
 10. Ahmad Fathir : [LetsPost](https://github.com/Zzfathir/lets-post)  
+11. Fihryal faqiy [Blog](https://github.com/fihryal/API--Project-Mar-.git)  
