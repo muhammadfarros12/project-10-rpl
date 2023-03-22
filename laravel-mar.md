@@ -14,3 +14,4 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 9. Nawfal Althaf Budiman [resep-makanan](https://github.com/Althaf-Budiman/api-resep-makanan)  
 10. Ahmad Fathir : [MyLib](https://github.com/Zzfathir/mylib)  
 11. Fihryal faqiy [Belum bernama](https://github.com/fihryal/API--Project-Mar-.git)  
+12. Akmal Pratama [Phishing API](https://github.com/malpraku/PhishingAPI)
