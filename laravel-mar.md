@@ -5,7 +5,7 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 
 1. Thoriq Ramadhan : [student-user](https://github.com/thoriqramadhan/StudentApi)  
 2. Damarazka A : [Skl-Api](https://github.com/Damarazka/skl-api)  
-3. Maulana Nur Fawwaz : [Book Review](https://github.com/Fawwaz129/Book_review)  
+3. Maulana Nur Fawwaz : [Review_Motor](https://github.com/Fawwaz129/review_motor)  
 4. Zaidan : [Teemy](https://github.com/firrizq/nahtateem-api)  
 5. Akmal Faiq Muhammad Ranyan : [api-laravel](https://github.com/akmlrnyn/api-laravel)  
 6. Maulana Ade Fathurrozaqi : [BadReads](https://github.com/maulzzzaqi/BadReads-API)  
