@@ -9,6 +9,7 @@ cth: muhammad_farros.md
    - deskripsi dari aplikasi tsb  
    - fitur - fitur yang ada didalam aplikasi tsb  
    - dokumentasi dari aplikasi  
+   - poster project  
 3. silahkan upload gambar yang dibutuhkan didalam folder **images** yang sudah disediakan didalam folder ini   
   **note:**  
   untuk gambar bisa mengikuti format berikut:
@@ -23,6 +24,7 @@ example: muhammad_farros.md
     - description of the application page  
     - the features in the application  
     - documentation of the application  
+    - project poster  
 3. please upload the required images in the **images** folder that has been provided in this folder  
 **note:**  
    for images can follow the following format:  
