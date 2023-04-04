@@ -13,11 +13,11 @@ This web application is designed to allow users to list and view books in a libr
 ## Technologies Used
 This application is built with the following technologies:
 
-* Laravel: A PHP web application framework  
-* MySQL: A relational database management system  
-* HTML: A markup language used for creating web pages  
-* CSS: A stylesheet language used for styling web pages  
-* Tailwind CSS: A utility-first CSS framework for quickly building custom designs  
+* Laravel  
+* MySQL  
+* HTML  
+* CSS  
+* Tailwind CSS  
 ## Documentation
 ##### Register View
 ![Register](/shared-host-project/images/register.png)  
