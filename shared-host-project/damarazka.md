@@ -1,6 +1,8 @@
 Nama Aplikasi : Data Mahasiswa.
 
-Link Web : https://maha.azkacekapsemanten.my.id/
+Link Web Sendiri : https://maha.azkacekapsemanten.my.id/
+Link Web Ngobar  : https://task.azkacekapsemanten.my.id/
+
 
 Deskreipsi Aplikasi : Web untuk mendata data dari mahasiswa yang mana berdasarkan NIM, Nama Mahasiswa, dan Jurusan.
 
@@ -12,15 +14,15 @@ Fitur-fitur Web :
     melihat data yang ada.
 
 Dokumentasi Aplikasi : 
-![home awal dari Web](../shared-host-project/images/{project-home})
-![page register](../shared-host-project/images/{project-register})
-![page login](../shared-host-project/images/{project-login})
-![page setelah login](../shared-host-project/images/{project-has-login})
-![page data](../shared-host-project/images/{project-read})
-![page create data](../shared-host-project/images/{project-create})
-![page update data](../shared-host-project/images/{project-update-data})
-![page jika ingin delete data](../shared-host-project/images/{project-delete})
-![page jika bukan admin](../shared-host-project/images/{project-not-admin})
+![home awal dari Web](../shared-host-project/images/project-home)
+![page register](../shared-host-project/images/project-register)
+![page login](../shared-host-project/images/project-login)
+![page setelah login](../shared-host-project/images/project-has-login)
+![page data](../shared-host-project/images/project-read)
+![page create data](../shared-host-project/images/project-create)
+![page update data](../shared-host-project/images/project-update-data)
+![page jika ingin delete data](../shared-host-project/images/project-delete)
+![page jika bukan admin](../shared-host-project/images/project-not-admin)
 
 Poster Project : 
 
