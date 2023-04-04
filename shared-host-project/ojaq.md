@@ -20,15 +20,15 @@ This application is built with the following technologies:
 * Tailwind CSS  
 ## Documentation
 ##### Register View
-![Register](/shared-host-project/images/register.png)  
+![Register](/shared-host-project/images/ojaqregister.png)  
 ##### Login View
-![Login](/shared-host-project/images/login.png)  
+![Login](/shared-host-project/images/ojaqlogin.png)  
 ##### View as User
-![View as User](/shared-host-project/images/view%20user.png)  
+![View as User](/shared-host-project/images/ojaquser.png)  
 ##### View as Admin
-![View as Admin](/shared-host-project/images/view%20admin.png)  
+![View as Admin](/shared-host-project/images/ojaqadmin.png)  
 ##### Add/Edit Book View
-![Add/Edit Book View](/shared-host-project/images/add%3Aedit%20book.png)  
+![Add/Edit Book View](/shared-host-project/images/ojaqeditadd.png)  
 
 ## Installation
 1. Clone the repository  
