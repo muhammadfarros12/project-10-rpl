@@ -21,9 +21,9 @@ Data tahfizh adalah salah satu web yang mana dapat mendata data tahfizh, tidak h
 
 
 ## Documentation
-![home](../shared-host-project/images/home.png)
-![register](../shared-host-project/images/register.png)
-![dashboard](../shared-host-project/images/dashboard.png)
+![home](../shared-host-project/images/home-f.png)
+![register](../shared-host-project/images/register-f.png)
+![dashboard](../shared-host-project/images/dashboard-f.png)
 
 
 
