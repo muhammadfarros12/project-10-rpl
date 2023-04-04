@@ -17,18 +17,26 @@
 
 ## Project's Documentations  
 
+#### Guest home view.  
 ![Home view(Guest)](/shared-host-project/images/Home%20guest.png)  
 
+#### Login view.  
 ![Login view](/shared-host-project/images/login%20view.png)  
 
+#### Register view.  
 ![Register view](/shared-host-project/images/register%20view.png)  
 
+#### User home view.  
 ![Home view(User)](/shared-host-project/images/Home%20user.png)  
 
+#### User mahasiswa list view.  
 ![Mahasiswa list(User)](/shared-host-project/images/mahalist%20user.png)  
 
+#### Admin mahasiswa list view.  
 ![Mahasiswa list(Admin)](/shared-host-project/images/mahalist%20admin.png)  
 
+#### Add data view.  
 ![Add data](/shared-host-project/images/add%20data%20view.png)  
 
+#### Edit data view.  
 ![Edit data](/shared-host-project/images/edit%20data%20view.png)  
