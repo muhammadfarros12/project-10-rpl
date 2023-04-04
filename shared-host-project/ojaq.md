@@ -1,7 +1,7 @@
 # List Library App
 This web application is designed to allow users to list and view books in a library. It features a CRUD functionality for the admin role, allowing the admin to manage the books available in the library, and a login and registration system for users to access the library.
 ## Links
-[Listbrary](http://task.project.ojaq.my.id)
+[Listbrary](http://task.project.ojaq.my.id)  
 [Task](https://task.ojaq.my.id/)
 ## Features
 * Users can view all books available in the library  
@@ -19,15 +19,15 @@ This application is built with the following technologies:
 * CSS  
 * Tailwind CSS  
 ## Documentation
-##### Register View
+#### Register View
 ![Register](/shared-host-project/images/ojaqregister.png)  
-##### Login View
+#### Login View
 ![Login](/shared-host-project/images/ojaqlogin.png)  
-##### View as User
+#### View as User
 ![View as User](/shared-host-project/images/ojaquser.png)  
-##### View as Admin
+#### View as Admin
 ![View as Admin](/shared-host-project/images/ojaqadmin.png)  
-##### Add/Edit Book View
+#### Add/Edit Book View
 ![Add/Edit Book View](/shared-host-project/images/ojaqeditadd.png)  
 
 ## Installation
