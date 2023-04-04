@@ -32,7 +32,7 @@ This application is built with the following technologies:
 
 ## Installation
 1. Clone the repository  
-2. Navigate to the root directory of the project in the terminal and run composer install to install the required packages  
+2. Navigate to the root directory of the project in the terminal and run **`composer install`** to install the required packages  
 3. Run **`cp .env.example .env`** to create **`.env`** file  
 4. Create a new database in MySQL and configure the **`.env`** file to use the database  
 5. Run **`php artisan migrate`** to migrate the database tables  
