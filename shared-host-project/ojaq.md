@@ -1,6 +1,8 @@
 # List Library App
 This web application is designed to allow users to list and view books in a library. It features a CRUD functionality for the admin role, allowing the admin to manage the books available in the library, and a login and registration system for users to access the library.
-
+## Links
+[Listbrary](http://task.project.ojaq.my.id)
+[Task](https://task.ojaq.my.id/)
 ## Features
 * Users can view all books available in the library  
 * Admin can add new books to the library  
@@ -36,5 +38,7 @@ This application is built with the following technologies:
 5. Run **`php artisan db:seed`** to seed the database with sample data (optional)  
 6. Start the server by running php artisan serve  
 7. Open a web browser and navigate to **http://localhost:8000** to view the application  
+## Poster
+
 ## Credits
 This project was developed by [**Abdurrazaq**].
