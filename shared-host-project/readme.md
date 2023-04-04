@@ -12,7 +12,7 @@ cth: muhammad_farros.md
    - poster project  
 3. silahkan upload gambar yang dibutuhkan didalam folder **images** yang sudah disediakan didalam folder ini   
   **note:**  
-  untuk gambar bisa mengikuti format berikut:
+  untuk gambar bisa mengikuti format berikut:  
   ![deskripsi singkat gambat](../shared-host-project/images/{nama file gambar kalian})
 
 ## English
