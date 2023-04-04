@@ -19,18 +19,18 @@ Tahfidz management website untuk memanage tahfidz yang berguna untuk seorang pen
 ## Documentation
 
 **Tampilan Utama**
-![Tampilan utama pada saat membuka website](../shared-host-project/images/{tampilanutama.png})
-![Tampilan utama pada saat membuka website saat sudah login](../shared-host-project/images/{tampilanutama2.png})
+![Tampilan utama pada saat membuka website](../shared-host-project/images/tampilanutama.png)
+![Tampilan utama pada saat membuka website saat sudah login](../shared-host-project/images/tampilanutama2.png)
 
 **Tampilan Dashboard**
-![Tampilan Dashboard](../shared-host-project/images/{dashboardutama.png})
+![Tampilan Dashboard](../shared-host-project/images/dashboardutama.png)
 
 **Tampilan Daftar Tahfidz**
-![Tampilan daftar tahfidz](../shared-host-project/images/{userview.png})
+![Tampilan daftar tahfidz](../shared-host-project/images/userview.png)
 
 **Tampilan Admin**
-![Tampilan admin](../shared-host-project/images/{adminview.png})
+![Tampilan admin](../shared-host-project/images/adminview.png)
 
 **Login & Register**
-![Tampilan login & register](../shared-host-project/images/{login-tahfidz.png})
-![Tampilan login & register](../shared-host-project/images/{register-tahfidz.png})
+![Tampilan login & register](../shared-host-project/images/login-tahfidz.png)
+![Tampilan login & register](../shared-host-project/images/register-tahfidz.png)
