@@ -1,5 +1,6 @@
 ## Notes App
-Link Website : https://notes.althaf-budiman.my.id/
+Link Website Notes : https://notes.althaf-budiman.my.id/
+Link Website Tasks : https://tasks.althaf-budiman.my.id/
 
 ## Deskripsi : 
 Ini adalah aplikasi catatan berbasis website dengan ui dan ux yang baik, ada 2 role yaitu user dan admin.
