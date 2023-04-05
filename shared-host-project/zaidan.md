@@ -42,6 +42,7 @@
 #### Edit data view.  
 ![Edit data](/shared-host-project/images/edit%20data%20view.png)  
 
+
 ## Poster  
 
 ![Poster](/shared-host-project/poster/Mahastudent%20poster.png)  
