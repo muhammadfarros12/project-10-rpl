@@ -28,7 +28,7 @@ This application is built with the following technologies:
 #### View as Admin
 ![View as Admin](/shared-host-project/images/ojaqadmin.png)  
 #### Add/Edit Book View
-![Add/Edit Book View](/shared-host-project/images/ojaqeditadd.png)  
+![Add/Edit Book View](/shared-host-project/poster/ojaqeditadd.png)  
 
 ## Installation
 1. Clone the repository  
