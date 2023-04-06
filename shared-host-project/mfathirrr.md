@@ -19,3 +19,24 @@ website ini adalah website yang dibangun menggunakan laravel dan juga tailwind, 
 
 
 ## Dokumentasi
+
+#### Register View
+![Register](/shared-host-project/images/registerfathir.png) 
+
+#### Login View
+![Login](/shared-host-project/images/loginfathir.png) 
+
+#### User View
+![User](/shared-host-project/images/userviewfathir.png) 
+
+#### Admin View
+![Admin](/shared-host-project/images/adminviewfathir.png) 
+
+#### Create/Update View
+![Create/Update](/shared-host-project/images/cufathir.png) 
+
+## Poster Website
+
+#### Poster Website
+![Poster Website](/shared-host-project/poster/postermfathir.png)
+
