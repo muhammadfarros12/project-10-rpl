@@ -40,6 +40,6 @@ This application is built with the following technologies:
 7. Start the server by running **`php artisan serve`**  
 8. Open a web browser and navigate to **http://localhost:8000** to view the application  
 ## Poster
-
+![Poster](/shared-host-project/images/posterojaq.png)  
 ## Credits
 This project was developed by [**Abdurrazaq**].
