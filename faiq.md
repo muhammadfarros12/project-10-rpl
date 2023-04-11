@@ -52,5 +52,10 @@ This website has 8 pages, which is Landing Page, Login Page, Register Page, Midd
 9. Update Page
 ![Update Page](../shared-host-project/images/edit.png)
 
+## Poster
+![Poster](../shared-host-project/poster/Doppie.png)
+
 ## Copyright
 Created by Akmal Faiq Muhammad Ranyan
+
+
