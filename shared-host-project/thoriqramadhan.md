@@ -1,6 +1,6 @@
-# LibaryManagements 🔖
+# LibraryManagements 🔖
 
-<p>Hello everyone!, this project is one of my school project.<br><b style="color:white;">Libary Management</b> will manage a data if someone borrow some books from the libary.</p>
+<p>Hello everyone!, this project is one of my school project.<br><b style="color:white;">Library Management</b> will manage a data if someone borrow some books from the library.</p>
 
 ## Technology used in this project
 
@@ -32,4 +32,5 @@ Image preview when adding data, you can input **User** and **Books** that are bo
 ![edit and delete](../shared-host-project/images/edit-delete-thoriq.png)
 And after you add an data, You can edit it or delete it *(**Only admin!**)*.
 
-
+# Poster
+![Poster libraryManagement](../shared-host-project/poster/LibraryManagement%20(1).png)
