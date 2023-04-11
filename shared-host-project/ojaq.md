@@ -28,7 +28,7 @@ This application is built with the following technologies:
 #### View as Admin
 ![View as Admin](/shared-host-project/images/ojaqadmin.png)  
 #### Add/Edit Book View
-![Add/Edit Book View](/shared-host-project/poster/ojaqeditadd.png)  
+![Add/Edit Book View](/shared-host-project/images/ojaqeditadd.png)  
 
 ## Installation
 1. Clone the repository  
@@ -40,6 +40,6 @@ This application is built with the following technologies:
 7. Start the server by running **`php artisan serve`**  
 8. Open a web browser and navigate to **http://localhost:8000** to view the application  
 ## Poster
-![Poster](/shared-host-project/images/posterojaq.png)  
+![Poster](/shared-host-project/poster/posterojaq.png)  
 ## Credits
 This project was developed by [**Abdurrazaq**].
