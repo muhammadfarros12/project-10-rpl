@@ -33,5 +33,6 @@ BookHouse adalah web yang dipergunakan untuk mencari buku atau novel favorite ya
 - Diatas ini adalah Form create bagi admin untuk menambahkan Buku
 ![Edit](../shared-host-project/images/EditBookHouse.png)
 -Diatas ini adalah Form edit bagi admin untuk mengedit buku yang sudah ada
-
+![Poster](../shared-host-project/poster/BookHouse%20-%20Fawwaz.png)
+-Diatas ini adalah Poster dari website saya
 
