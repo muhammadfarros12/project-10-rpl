@@ -21,4 +21,4 @@ designed for global communications for operations (woa), it simply is the simple
 
 # POSTER THINGY
 
-![GLOBALOPERATIONSHUB_Poster](https://user-images.githubusercontent.com/92079356/229709226-6f9ee90c-348d-4e32-a2b3-1eb1e824f723.png)
+![GLOBALOPERATIONSHUB_FIXED](https://user-images.githubusercontent.com/92079356/231054166-84c30bdf-74f9-41f3-989a-1964fd227579.png)
