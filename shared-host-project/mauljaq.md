@@ -1,8 +1,8 @@
 # TahfidzMonitoring
 TahfidzMonitoring is a website designed to input the tahfidz data of the students of IDN Boarding School. It comes with CRUD feature (for user with admin role only) and full authentication feature including login, register, etc. You can register to the TahfidzMonitoring website and access the tahfidz data. Admin user is gained with add, edit, and delete the data which non-admin user can't. TahfidzMonitoring built with Laravel v9 for the back end and TailwindCSS with daisyUI Components for the front end (UI). 
 ## Access The App
-- [TahfidzMonitoring](tahfidzmonitoring.maulzzaqi.my.id)
-- [Task](taskmaul.maulzzaqi.my.id)
+- [TahfidzMonitoring](https://tahfidzmonitoring.maulzzaqi.my.id)
+- [Task](https://taskmaul.maulzzaqi.my.id)
 ## Features
 - Users can read the tahfidz database
 - Admin users can edit, delete, and edit tahfidz database
