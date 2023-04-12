@@ -1,8 +1,11 @@
 **Doppie - Pet Adoption List Project**  
 
 ### Link Website
-[Task Project](task.akmalranyan.my.id). 
-[Doppie](doppie.akmalranyan.my.id)
+
+[Task Project](https://task.akmalranyan.my.id/)
+
+[Doppie](https://doppie.akmalranyan.my.id/)
+
 
 ### Description 
 Doppie is my first dynamic website project that using Laravel 8, Tailwindcss 3, and Mysql Database. This website has two roles, which is Admin role and Adopter role. Admin role have a full access to all CRUD (Create, Read, Update, Delete) operation to the pet data, while Adopter role only can Read the data and search the data. The purpose of this website is to allow pet shelters to list unowned pets and make adopter see all unowned pet which may they interested in.
