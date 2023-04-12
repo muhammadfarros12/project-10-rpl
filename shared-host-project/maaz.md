@@ -28,3 +28,5 @@ It is an API that I built which is specifically about products.
 1. Set bearer token to Swagger Header or Post Header as Authentication
 1. Hit Any API, You can also hit any API, before authorization header data set to see the effects.
 ![API Laravel 9 0](https://user-images.githubusercontent.com/62890173/231054117-434dbd6d-e7fa-4947-b1fe-b78bf4941364.png)
+![one](https://user-images.githubusercontent.com/62890173/231349524-e97adab8-fea1-4871-91c2-6b65601cd37e.png)
+![two](https://user-images.githubusercontent.com/62890173/231349532-11acf62d-7ee5-4e9a-9a67-eafa8c728df6.png)
