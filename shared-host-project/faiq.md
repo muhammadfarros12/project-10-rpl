@@ -23,13 +23,13 @@ All of this website's page is Insya Allah responsive.
 5. MySQL Database
 
 ### Features  
-1. Admin Features. 
-    a. Login Authentication with error input messages.
-    b. Create, Update, and Delete the data. 
+1. Admin Features  
+    a. Login Authentication with error input messages  
+    b. Create, Update, and Delete the data  
     c. Showed all pet data in index.
 
-2. Adopter Features. 
-    a. Login and Register Authentication with error input messages. 
+2. Adopter Features   
+    a. Login and Register Authentication with error input messages  
     b. Showed all pet data in index.
 
 ## Pages
