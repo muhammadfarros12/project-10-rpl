@@ -9,7 +9,7 @@ nb: jangan lupa tambahkan space 2 kali untuk memberikan indentasi
 4. Zaidan : [Teemy](https://github.com/firrizq/nahtateem-api)  
 5. Akmal Faiq Muhammad Ranyan : [api-laravel](https://github.com/akmlrnyn/api-laravel)  
 6. Maulana Ade Fathurrozaqi : [BadReads](https://github.com/maulzzzaqi/BadReads-API)  
-7. Muhammad Nauval Syuja Kurniawan : [Perpustakaan API](https://github.com/petelpop/perpustakaan-API.git)  
+7. Muhammad Nauval Syuja Kurniawan : [Info Comic API](https://github.com/petelpop/perpustakaan-API.git)  
 8. Muhammad Maaz : [Blog API](https://github.com/maazshakeel/skl-2)  
 9. Nawfal Althaf Budiman [resep-makanan](https://github.com/Althaf-Budiman/api-resep-makanan)  
 10. Ahmad Fathir : [MyLib](https://github.com/Zzfathir/mylib)  
