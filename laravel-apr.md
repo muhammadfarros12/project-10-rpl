@@ -3,6 +3,8 @@
  nb:
  jangan lupa untuk berikan double space disetiap akhir baris untuk memberikan indentasi
 
+
+1. Farrel Ahmad Ghazali : [Cek Ongkir](https://github.com/farrelahmad/Cek-Ongkir)    
  Abdurrazaq : [cekongkir](https://github.com/ojaq/cekongkir)  
  ipal = [cek ongkir](https://github.com/petelpop/cekOngkir.git)  
  fihryal : [check_ongkir](https://github.com/fihryal/check_ongkir.git)  
