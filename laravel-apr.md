@@ -3,7 +3,7 @@
  nb:
  jangan lupa untuk berikan double space disetiap akhir baris untuk memberikan indentasi
 
-
+ Thoriq Izzuddin Ramadhan : [CheckOngkir](https://github.com/thoriqramadhan/checkOngkir)  
 1. Farrel Ahmad Ghazali : [Cek Ongkir](https://github.com/farrelahmad/Cek-Ongkir)    
  Abdurrazaq : [cekongkir](https://github.com/ojaq/cekongkir)  
  ipal = [cek ongkir](https://github.com/petelpop/cekOngkir.git)  
