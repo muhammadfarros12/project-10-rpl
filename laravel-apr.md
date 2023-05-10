@@ -14,3 +14,5 @@
 9. Nawfal Althaf Budiman: [Cek Ongkir](https://github.com/Althaf-Budiman/cek-ongkir)  
 10. Akmal Faiq - 14 April 2023 : [Cek Ogkir Website](https://github.com/akmlrnyn/cekOngkir)   
 11. Ahmad Fathir : [Cek Ogkir](https://github.com/Zzfathir/cek-ongkir)  
+12. M. Maaz : [Ongkir](https://github.com/maazshakeel/ongkir)  
+13. Maulana Nur Fawwaz : [Cek Ongkir](https://github.com/Fawwaz129/Cek-Ongkir)  
