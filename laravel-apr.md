@@ -13,4 +13,5 @@
 8. Damarazka Akhyari : [Cek Ongkir](https://github.com/Damarazka/cek_ongkir)    
 9. Nawfal Althaf Budiman: [Cek Ongkir](https://github.com/Althaf-Budiman/cek-ongkir)  
 10. Akmal Faiq - 14 April 2023 : [Cek Ogkir Website](https://github.com/akmlrnyn/cekOngkir)   
-11. Maulana Nur Fawwaz : [Cek Ongkir](https://github.com/Fawwaz129/Cek-Ongkir)
+11. M. Maaz : [Ongkir](https://github.com/maazshakeel/ongkir)  
+11. Maulana Nur Fawwaz : [Cek Ongkir](https://github.com/Fawwaz129/Cek-Ongkir)  
